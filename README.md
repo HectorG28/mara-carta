@@ -1,2 +1,0 @@
-# CartaPrueba
-Readme.txt
